@@ -1,0 +1,11 @@
+
+bin/
+obj/
+.vs/
+packages/
+*.user
+*.suo
+*.mdf
+*.ldf
+*.sql.bak
+*.backup.sql
